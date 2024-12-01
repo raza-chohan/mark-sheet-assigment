@@ -1,0 +1,39 @@
+body{
+    background-color: aliceblue;
+}
+
+th, td{
+    border: 1px solid;
+    text-align: center;
+    padding: 5px;
+}
+
+h1{
+    color: dimgray;
+}
+
+h1:hover{
+    color: blue;
+}
+
+input{
+    display: block;
+    margin-bottom: 20px;
+}
+.cotainer{
+    display: flex;
+    gap: 30px;
+}
+button{
+    margin-bottom: 20px;
+}
+
+button{
+    background-color: dimgray;
+    color: #fff;
+    border-style: none;
+    height: 30px;
+}
+button:hover{
+    background-color: blue;
+}
